@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "description": "webpack loader",
+  "name": "webpack-plugin-terser",
+  "devDependencies": {
+    "@babel/generator": "^7.17.0",
+    "@babel/parser": "^7.17.0",
+    "@babel/traverse": "^7.17.0",
+    "@babel/types": "^7.17.0"
+  }
+}
